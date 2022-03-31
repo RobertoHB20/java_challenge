@@ -1,5 +1,10 @@
-package Patterns.Factory.Excercise;
+package Patterns.Factory.Excercise.Impl;
 
+import Patterns.Factory.Excercise.Car;
+
+/**
+ * Class that implements Car interface to build a Luxury car
+ */
 public class LuxuryCar implements Car {
 
 
