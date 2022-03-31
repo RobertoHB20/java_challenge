@@ -1,7 +1,7 @@
-package Patterns.Factory.Excercise;
+package Patterns.Creationals.Factory.Excercise;
 
-import Patterns.Factory.Excercise.Factory.CarFactory;
-import Patterns.Factory.Excercise.Types.CarType;
+import Patterns.Creationals.Factory.Excercise.Factory.CarFactory;
+import Patterns.Creationals.Factory.Excercise.Types.CarType;
 
 public class RunFactory {
 

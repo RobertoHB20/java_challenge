@@ -1,4 +1,4 @@
-package Patterns.Factory.Excercise;
+package Patterns.Creationals.Factory.Excercise;
 
 public interface Car {
 

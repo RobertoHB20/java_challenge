@@ -1,4 +1,4 @@
-package Patterns.Prototype.Live;
+package Patterns.Creationals.Live;
 
 import java.util.HashMap;
 import java.util.Map;

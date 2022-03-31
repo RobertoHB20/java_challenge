@@ -1,4 +1,4 @@
-package Patterns.Builder;
+package Patterns.Creationals.Builder;
 
 import lombok.Getter;
 import lombok.ToString;

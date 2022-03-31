@@ -1,4 +1,4 @@
-package Patterns.Factory.Live;
+package Patterns.Creationals.Factory.Live;
 
 public class PaymentFactory {
     public static Payment buildPayment(TypePayment typePayment){

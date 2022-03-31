@@ -1,6 +1,6 @@
-package Patterns.Factory.Excercise.Impl;
+package Patterns.Creationals.Factory.Excercise.Impl;
 
-import Patterns.Factory.Excercise.Car;
+import Patterns.Creationals.Factory.Excercise.Car;
 
 /**
  * Class that implements Car interface and allows to build a small car

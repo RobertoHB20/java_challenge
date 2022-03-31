@@ -1,4 +1,4 @@
-package Patterns.Factory.Live;
+package Patterns.Creationals.Factory.Live;
 
 public interface Payment {
     void doPayment();

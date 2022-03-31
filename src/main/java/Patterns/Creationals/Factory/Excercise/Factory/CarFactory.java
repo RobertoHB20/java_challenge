@@ -1,10 +1,10 @@
-package Patterns.Factory.Excercise.Factory;
+package Patterns.Creationals.Factory.Excercise.Factory;
 
-import Patterns.Factory.Excercise.Car;
-import Patterns.Factory.Excercise.Types.CarType;
-import Patterns.Factory.Excercise.Impl.LuxuryCar;
-import Patterns.Factory.Excercise.Impl.SedanCar;
-import Patterns.Factory.Excercise.Impl.SmallCar;
+import Patterns.Creationals.Factory.Excercise.Impl.LuxuryCar;
+import Patterns.Creationals.Factory.Excercise.Impl.SedanCar;
+import Patterns.Creationals.Factory.Excercise.Car;
+import Patterns.Creationals.Factory.Excercise.Types.CarType;
+import Patterns.Creationals.Factory.Excercise.Impl.SmallCar;
 
 /**
  * Class Factory that allows the generation of different type of cars

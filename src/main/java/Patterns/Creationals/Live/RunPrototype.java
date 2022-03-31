@@ -1,4 +1,4 @@
-package Patterns.Prototype.Live;
+package Patterns.Creationals.Live;
 
 public class RunPrototype {
 

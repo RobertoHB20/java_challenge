@@ -1,4 +1,4 @@
-package Patterns.Prototype.Live;
+package Patterns.Creationals.Live;
 
 public interface PrototypeCard extends Cloneable {
 

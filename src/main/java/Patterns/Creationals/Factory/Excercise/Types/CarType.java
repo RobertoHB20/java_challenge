@@ -1,4 +1,4 @@
-package Patterns.Factory.Excercise.Types;
+package Patterns.Creationals.Factory.Excercise.Types;
 
 /**
  * Enum that contains different type of cars
