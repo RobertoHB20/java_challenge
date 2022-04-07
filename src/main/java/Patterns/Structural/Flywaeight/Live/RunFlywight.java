@@ -7,7 +7,7 @@ public class RunFlywight {
     public static String[] enemyTypes = {"Soldier", "Leader"};
     public static void main(String[] args) {
 
-        for(int i = 0 ; i < 15 ; i++){
+        for(int i = 0 ; i < 1500000000 ; i++){
             IEnemy enemy = EnemyFactory.getEnemy(getRandomEnemyType());
             enemy.setWeapon(getRandomWeapon());
             enemy.lifePoints();
